@@ -1,2 +1,2 @@
 # jakiesgowno
-wykrywacz metali prosto od cfela 
+wykrywacz metali prosto od cfela verego lol
